@@ -2,6 +2,6 @@
 App to create to do lists
 
 - Framework: Django
-- DEplyment: Heroku
+- Deployment: Heroku
 
 website: https://django-todolist-fcc.herokuapp.com/
