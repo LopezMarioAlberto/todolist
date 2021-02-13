@@ -1,2 +1,7 @@
 # todolist
-Django app to create todo lists
+App to create to do lists
+
+- Framework: Django
+- DEplyment: Heroku
+
+website: https://django-todolist-fcc.herokuapp.com/
